@@ -110,8 +110,20 @@ var database = [
         date: '2021-09-30', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'Michael Hudson', //forfatter eller forfattere
         theme: ['Pengepolitik', 'Økonomisk ulighed', 'Kapitalismekritik', 'Centralbanker', 'English'], // 'Økonomikritik' Hvis det bliver accepteret som emne
-        description: 'Bogen er en omfattende analyse af USAs økonomiske og monetære strategi siden Første Verdenskrig med dollaren som verdens reservevaluta. Stik imod hvad de fleste af os nok forestiller sig muligt, har USA brugt sit budget- og betalingsbalanceunderskud som økonomiske våben og presset andre nationer til at finansiere de amerikanske udgifter til blandt andet dets enorme militær og krigene i Korea, Vietnam og opefter. Da Præsident Richard Nixon ophævede guldstandarden i 1971, blev det for alvor muligt at trykke penge og udstede statsobligationer, som kunne opkøbes af andre stater, der havde brug for at investere dollars tjent på de internationale markeder. Skal man tro Michael Hudson, bogens forfatter og professor i økonomi, er hans fremstilling så præcis, at den er blevet brugt i USAs statsapparat til at lære stabsfolk landets strategi.', //Beskrivelse af den specifikke Artikel, bog osv.
+        description: 'Bogen er en omfattende analyse af USAs økonomiske og monetære strategi siden Første Verdenskrig med dollaren som verdens reservevaluta. Stik imod hvad de fleste af os nok forestiller sig muligt, har USA brugt sit budget- og betalingsbalanceunderskud som økonomiske våben og presset andre nationer til at finansiere de amerikanske udgifter til blandt andet dets enorme militær og krigene i Korea, Vietnam og opefter. Samtidig har strategien forkrøblet de svagere landes økonomiske udvikling af fødevare- og energisikkerhed og selvstændige industrier. Da Præsident Richard Nixon ophævede guldstandarden i 1971, blev det for alvor muligt at trykke penge og udstede statsobligationer, som kunne opkøbes af andre stater, der havde brug for at investere dollars tjent på de internationale markeder. Skal man tro Michael Hudson, bogens forfatter og professor i økonomi, er hans fremstilling så præcis, at den er blevet brugt i USAs statsapparat til at lære stabsfolk landets strategi.', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.saxo.com/dk/super-imperialism-the-economic-strategy-of-american-empire-third-edition_michael-hudson_haeftet_9783981826081", //link 
         image: "https://imgcdn.saxo.com/_9783981826081/0x500", //link til billede
+    },
+                 {
+        name: 'The Bubble and Beyond: Fictitious Capital, Debt Deflation and Global Crisis', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 6, //kvaliteten, tal mellem 1-10
+        price: 130.00, //Pris for at tilgå referencen
+        date: '2014-09-30', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Michael Hudson', //forfatter eller forfattere
+        theme: ['Finanskrise', 'Centralbanker', 'Den finansielle sektor', 'Boligmarkedet', 'Pengepolitik', 'English'], // 'Økonomikritik' Hvis det bliver accepteret som emne
+        description: 'Bogen er en samling essays skrevet af professor i økonomi Michael Hudson om økonomiske og finansieele kriser, den enorme boligboble og den globale finanskrise der brød ud i 2007-08.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.saxo.com/dk/the-bubble-and-beyond_michael-hudson_paperback_9783981484243", //link 
+        image: "https://imgcdn.saxo.com/_9783981484243/0x500", //link til billede
     },
 ];
